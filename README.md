@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Kittu Priya and I'm a passionate cybersecurity student, from India.</h2>
+<h1 align="center">Hi 👋, I'm Kittu Priya</h1>
+<h3 align="center">A passionate Cybersecurity Student from India.</h3>
+
+- 🌱 I’m currently learning **Networking and Cybersecurity tools.**
+
+- 📫 How to reach me **linkedin.com/in/kittu-priya-35340328b**
+
 
 ###
 
