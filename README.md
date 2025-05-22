@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **linkedin.com/in/kittu-priya-35340328b**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
