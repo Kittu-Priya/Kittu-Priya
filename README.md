@@ -54,10 +54,6 @@
 <br clear="both">
 
 <img src="https://github.com/Kittu-Priya/Kittu-Priya/blob/output/snake.svg" alt="Snake animation" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kittu-Priya/Kittu-Priya/blob/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kittu-Priya/Kittu-Priya/blob/output/snake-light.svg" />
-  
-</picture>
+
 
 ###
